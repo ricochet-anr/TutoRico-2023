@@ -8,6 +8,6 @@ This repository contains the material for the tutorial session of the [second RI
 The session will focus on the python toolboxes: [bispy](https://github.com/jflamant/bispy) and [pyburst](https://github.com/ecm0/pyburst)  
 Click on a badge below to run the notebooks
 ## Bispy
-[](https://colab.research.google.com/drive/157ydyEpZgG4Ryb2ggS_cbmUrcZ3cfOQo#scrollTo=O0vE1Busw1IH)
+[Lien](TutoRico2_bispy.ipynb)
 
 
