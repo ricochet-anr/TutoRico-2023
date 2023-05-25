@@ -1,3 +1,11 @@
-# TutoRico-2023
-
 <img src="Ricochet2.jpg" alt= “Ricochet2icon” width="50%" height="50%">
+
+# 2nd meeting of ANR project RICOCHET
+# Tutorial sessions
+
+This repository contains the material for the tutorial session of the [second RICOCHET meeting](https://indico.in2p3.fr/event/29811/).
+
+Here, you can find the material for the python toolboxes: [bispy](https://github.com/jflamant/bispy) and [pyburst](https://github.com/ecm0/pyburst)  
+
+
+
