@@ -1,3 +1,3 @@
 # TutoRico-2023
 
-![Flyer Ricochet2](Ricochet2.jpg)
+<img src="Ricochet2.jpg" alt= “Ricochet2icon” width="50%" height="50%">
