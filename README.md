@@ -1,4 +1,4 @@
-<img src="Ricochet2.jpg" alt= “Ricochet2icon” width="50%" height="50%">
+<img src="Ricochet2.jpg" alt= “Ricochet2icon” width="20%" height="20%">
 
 # 2nd meeting of ANR project RICOCHET
 # Tutorial sessions
