@@ -10,12 +10,11 @@ The session will focus on how to use the python toolboxes: [bispy](https://githu
 Click on a badge below to run the notebooks
 
 
+### Bispy
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ricochet-anr/TutoRico-2023/HEAD)
 
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ricochet-anr/TutoRico-2023)
-
-
-### Bispy
 
 [Lien](TutoRico2_bispy.ipynb)
 
