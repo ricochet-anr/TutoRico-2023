@@ -16,8 +16,6 @@ Click on a badge below to run the notebooks
 
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ricochet-anr/TutoRico-2023)
 
-[Lien](TutoRico2_bispy.ipynb)
-
 ### GW open data workshop
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gw-odw/odw-2023/HEAD)
